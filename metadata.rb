@@ -1,0 +1,8 @@
+name              "uck"
+maintainer        "Phil Cohen"
+maintainer_email  "github@phlippers.net"
+license           "MIT"
+description       "Install UCK - Ubuntu Customization Kit"
+version           "0.1.0"
+supports          "ubuntu"
+recipe            "default", "Install UCK - Ubuntu Customization Kit"
